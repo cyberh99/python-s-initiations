@@ -1,6 +1,9 @@
-# python-s-initiations
-Repository with some examples of Python to introduce the language
+# Python bascis course
 
-Curso impartido por @cyberh99 en el Aula de software libre de la UCO
+El repositorio incluye un breve curso de introducción a Python.
 
-https://github.com/aulasoftwarelibre
+Este curso esta impartido por [cyberh99](https://https://twitter.com/cyberh99) @cyberh99 para el [Aula software Libre](https://www.uco.es/aulasoftwarelibre/) Aula Software Libre UCO
+
+Para cualquier duda sobre python, el curso o relacionados, utilizar la pesataña de "issues", de forma que nos contestemos mutuamente(sera revisada con frecuencia)
+
+@cyberh99
