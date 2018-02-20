@@ -1,4 +1,4 @@
-# Python bascis course
+# Python basics course
 
 El repositorio incluye un breve curso de introducción a Python.
 
